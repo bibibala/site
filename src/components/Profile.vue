@@ -39,7 +39,7 @@
           <a href="https://www.zhihu.com/people/gala-37-94" target="_blank" rel="noopener noreferrer">Zhihu</a>
           <a href="https://space.bilibili.com/300863406?spm_id_from=333.1007.0.0" target="_blank" rel="noopener noreferrer">Bilibili</a>
           <a href="https://github.com/bibibala" target="_blank" rel="noopener noreferrer">GitHub</a>
-          <a href="#https://x.com/bababaZhao" target="_blank" rel="noopener noreferrer">Twitter</a>
+          <a href="https://x.com/bababaZhao" target="_blank" rel="noopener noreferrer">Twitter</a>
         </div>
       </div>
     </div>
