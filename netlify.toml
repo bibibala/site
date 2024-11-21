@@ -1,6 +1,6 @@
 [build]
+  command = "corepack enable && pnpm install && pnpm run build"
   publish = "dist/"
-  command = "pnpm run build"
 
 [[redirects]]
   from = "/*"
