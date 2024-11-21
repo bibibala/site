@@ -31,7 +31,7 @@
         </div>
 
         <div class="contact">
-          <a href="mailto:1140918095@qq.com@example.com" class="contact-btn">
+          <a href="mailto:1140918095@qq.com" class="contact-btn">
             联系我
           </a>
         </div>
