@@ -2,22 +2,24 @@
   <div class="container">
     <div class="content" data-aos="fade-up">
       <div class="profile-image">
-        <img src="image.jpeg" alt="Profile Picture" />
+        <img src="image.jpeg" alt="Profile Picture"/>
       </div>
-      
+
       <div class="intro-text">
         <h1>
           <span class="greeting">你好, 我是</span>
           <span class="name">Nightwish</span>
         </h1>
-        
-        <h2 class="title">前端开发工程师</h2>
-        
-        <p class="description">
-          这里是你的个人简介。你可以描述你的专业技能、工作经验、个人兴趣等。
-          让我们用简洁有力的语言，展现你的个性和专业能力。
-        </p>
 
+        <h2 class="title">前端开发工程师</h2>
+
+        <p class="description">
+          <img
+              align="center"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibibala&layout=compact&theme=buefy&bg_color=2f2f2f&text_color=d3d7e0&border_color=4a4f63"
+              alt="GitHub 使用语言图表"
+          />
+        </p>
         <div class="skills">
           <h3>技术栈</h3>
           <div class="skill-tags">
@@ -37,7 +39,8 @@
         </div>
         <div class="social-links">
           <a href="https://www.zhihu.com/people/gala-37-94" target="_blank" rel="noopener noreferrer">Zhihu</a>
-          <a href="https://space.bilibili.com/300863406?spm_id_from=333.1007.0.0" target="_blank" rel="noopener noreferrer">Bilibili</a>
+          <a href="https://space.bilibili.com/300863406?spm_id_from=333.1007.0.0" target="_blank"
+             rel="noopener noreferrer">Bilibili</a>
           <a href="https://github.com/bibibala" target="_blank" rel="noopener noreferrer">GitHub</a>
           <a href="https://x.com/bababaZhao" target="_blank" rel="noopener noreferrer">Twitter</a>
         </div>
